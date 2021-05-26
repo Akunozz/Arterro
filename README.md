@@ -1,3 +1,3 @@
 # Arterro
  Engineering company 
- www.site.akunozz.vercel.app
+url: site.akunozz.vercel.app
