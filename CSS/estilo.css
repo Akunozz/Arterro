@@ -9,3 +9,13 @@ body {
     color: rgb black;
     border-color: black;
 }
+
+footer div a:hover {
+    text-decoration: none;
+    color: beige;
+}
+
+footer div a {
+    color: white;
+    font-size: 0.9em;
+}
