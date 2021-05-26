@@ -2,9 +2,6 @@ ul li a {
     font-size: 1.1em;
 }
 
-body {
-  background-color: white;
-}
 .navbar-dark .navbar-toggler {
     color: rgb black;
     border-color: black;
@@ -22,6 +19,7 @@ footer div a {
 
 .caixa {
     padding: 30px;
+    background-color: white;
 }
 .col-md-3 .seg {
   position: absolute;
@@ -40,3 +38,4 @@ footer div a {
   opacity: 0.6;
   background-color: #2B2D37;
 }
+
