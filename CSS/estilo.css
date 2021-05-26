@@ -1,3 +1,7 @@
+body {
+  background-color: blueviolet;
+}
+
 ul li a {
     font-size: 1.1em;
 }
@@ -20,6 +24,7 @@ footer div a {
 .caixa {
     padding: 30px;
     background-color: white;
+    
 }
 .col-md-3 .seg {
   position: absolute;
