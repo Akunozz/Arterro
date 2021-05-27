@@ -21,10 +21,36 @@ footer div a {
     font-size: 0.9em;
 }
 
+@media (max-width: 991.98px) {
+  .vazio {
+    display: none;
+  }
+}
+
+@media (min-width: 991.98px) {
+  .celular {
+    display: none;
+  }
+}
+
+.formatação {
+  text-decoration: none;
+  color: black;
+  font-size: 1.2em;
+  text-align: center;
+}
+
+.serviços {
+  text-align: center;
+}
+
+.formatação a:hover{
+  text-decoration: none;
+}
+
 .caixa {
     padding: 30px;
     background-color: white;
-    
 }
 .col-md-3 .seg {
   position: absolute;
