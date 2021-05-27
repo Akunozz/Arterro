@@ -21,13 +21,13 @@ footer div a {
     font-size: 0.9em;
 }
 
-@media (max-width: 991.98px) {
+@media (max-width: 751.98px) {
   .vazio {
     display: none;
   }
 }
 
-@media (min-width: 991.98px) {
+@media (min-width: 751.98px) {
   .celular {
     display: none;
   }
@@ -40,8 +40,21 @@ footer div a {
   text-align: center;
 }
 
-.serviços {
+.center {
   text-align: center;
+}
+
+.container .serviços {
+  text-align: center;
+  font-size: 2.5em;
+  text-decoration: none;
+  color: black;
+  font-family: garamond;
+}
+
+.serviços a:hover {
+  text-decoration: none;
+  color: black;
 }
 
 .formatação a:hover{
@@ -69,4 +82,3 @@ footer div a {
   opacity: 0.6;
   background-color: #2B2D37;
 }
-
