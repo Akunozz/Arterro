@@ -2,10 +2,6 @@ body {
   background-color: blueviolet;
 }
 
-ul li a {
-    font-size: 1.1em;
-}
-
 .navbar-dark .navbar-toggler {
     color: rgb black;
     border-color: black;
